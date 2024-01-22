@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "233590319928",
+    "firebase_url": "https://mobilprogramlamafinalpro-6d5b4-default-rtdb.firebaseio.com",
+    "project_id": "mobilprogramlamafinalpro-6d5b4",
+    "storage_bucket": "mobilprogramlamafinalpro-6d5b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233590319928:android:ce6b9825c75733df8b2fcd",
+        "android_client_info": {
+          "package_name": "com.amertk.mobilprogramlamafinalprojesi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2eSiftMNNhAIeXAt0DvZaT-L6eufUweQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
